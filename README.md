@@ -1,4 +1,4 @@
-# Guanghua
+# Guanghua Project
 Jupyter notebooks for Guanghua
 
 Program Language : Python
