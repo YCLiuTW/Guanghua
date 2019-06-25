@@ -1,5 +1,5 @@
 # Guanghua
-Jupyter notebooks for this project
+Jupyter notebooks for Guanghua
 
 Library you must have in your computer, <br />
 1). pytorch <br />
