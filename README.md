@@ -1,5 +1,5 @@
 # Guanghua Project
-Jupyter notebooks for Guanghua
+Jupyter notebooks for Pytorch simple tutorial
 
 Program Language : Python
 Library that you must have in your computer, <br />
