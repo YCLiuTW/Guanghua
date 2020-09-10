@@ -1,4 +1,4 @@
-# Guanghua Project
+# Content
 Jupyter notebooks for Pytorch simple tutorial
 
 Program Language : Python
